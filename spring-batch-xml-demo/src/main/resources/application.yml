@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/testDB
+    username: gunda
+    password: admin@123
+    initialize: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update

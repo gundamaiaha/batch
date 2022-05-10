@@ -95,6 +95,7 @@ public class SpringBatchConfig {
         return jobBuilderFactory.get("importCustomers")
                 .flow(masterStep())
                 .end()
+                .listener(new CustomerJobListener())
                 .build();
     }
 

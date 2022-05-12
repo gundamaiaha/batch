@@ -1,0 +1,33 @@
+<LEIRecords>
+    <LEIRecord>
+        <LEI>21X0901</LEI>
+        <LegalEntity>
+            <LegalName>Test LE1</LegalName>
+        </LegalEntity>
+    </LEIRecord>
+    <LEIRecord>
+        <LEI>21X0902</LEI>
+        <LegalEntity>
+            <LegalName>Test LE2</LegalName>
+        </LegalEntity>
+    </LEIRecord>
+    <LEIRecord>
+        <LEI>21X0903</LEI>
+        <LegalEntity>
+            <LegalName>Test LE3</LegalName>
+        </LegalEntity>
+    </LEIRecord>
+    <LEIRecord>
+        <LEI>21X0904</LEI>
+        <LegalEntity>
+            <LegalName>Test LE4</LegalName>
+        </LegalEntity>
+    </LEIRecord>
+    <LEIRecord>
+        <LEI>21X0905</LEI>
+        <LegalEntity>
+            <LegalName>Test LE5</LegalName>
+        </LegalEntity>
+    </LEIRecord>
+
+</LEIRecords>
